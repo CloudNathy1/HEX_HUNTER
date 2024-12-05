@@ -1,4 +1,4 @@
-# BTC-HUNT-OFFLINE Bitcoin Brute Forcer
+# HEX_HUNTER Bitcoin Brute Forcer
 
 A Bitcoin wallet collider that brute forces random wallet addresses
 
@@ -72,6 +72,18 @@ If a wallet with a balance is found, then all necessary information about the wa
 >Bech32 Address (P2WPKH): bc1qutc4kd8esk3w5djrwpmfuravc5myfa86ax4lmk<br/>
 >P2SH Address (P2WPKH in P2SH): 3BxonbaA1n5mxEJHzNJs2P3qPNnBLq2HTq<br/>
 >Matched Addresses: bc1qutc4kd8esk3w5djrwpmfuravc5myfa86ax4lmk<br/>
+
+# for donation 
+bc1qdgzh422l7xgkgzmctr0njr0fp966wwche4jx0e
+
+# HOPE IT WILL HELP
+[FOR ANY QUESTIONS TEXT US AT]
+
+> CLOUDHUNTERS :: https://t.me/cloud_hunter_sa
+> KEYFOUND ::  https://t.me/privatekeydirectorygroup
+
+# CONTACT :: 
+> US THROUGH DRIECT MESSAGES ON TELE : @CLOUDNATHY
 
 # Recent Improvements & TODO
 
